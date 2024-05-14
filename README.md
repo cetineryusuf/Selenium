@@ -1,4 +1,5 @@
 Decorators
+
 @pytest.fixture: Bu dekoratör, test fonksiyonlarına bağımlılık (dependency) sağlamak için kullanılır. Fixture'lar, testlerden önce belirli bir durumda veri hazırlamak veya ortamı ayarlamak için idealdir.
 
 @pytest.mark.parametrize: Test fonksiyonlarını farklı veri setleri ile çalıştırmak için kullanılır. Bu, aynı testin farklı girdilerle çalıştırılmasını sağlar.
